@@ -1,4 +1,4 @@
-# flutter_app_air
+# Screenshots
 
 A new Flutter application.
 
