@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
         resizeToAvoidBottomInset: true,
-        //appBar: AppBar(backgroundColor: Colors.white, title: const Text('App Bar'), leading: IconButton(onPressed: () {}, icon: const Icon(Icons.search))),
+       
         body: SafeArea(
           child: Container(
             padding: EdgeInsets.fromLTRB(5, 20, 10, 0),
